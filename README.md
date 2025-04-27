@@ -2,8 +2,10 @@ Hi there, I'm Suhani Tamrkar 👋
 Welcome to my GitHub profile!
 
 🚀 About Me
-I'm passionate about web development and continuously learning new technologies.
-Currently, I am focused on building and improving projects using front-end technologies and exploring modern tools to enhance my workflow.
+🌟 Passionate about web development and UI/UX design
+🌟 Love building responsive and user-friendly websites
+🌟 Exploring modern frameworks and AI tools to boost productivity
+
 
 🛠️ Skills and Tools
 Frontend Development:
