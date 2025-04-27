@@ -1,16 +1,30 @@
-Hi there, I'm Mayank Tamrkar! 👋
+Hi there, I'm Suhani Tamrkar! 👋
 Welcome to my GitHub profile!
 I'm a passionate Front-end developer who loves building responsive websites and exploring modern web technologies.
 I aim to create clean, user-friendly, and efficient solutions using the latest tools and frameworks.
 
+
+
 🚀 About Me
+
+
 🎓 Student & Self-Learner
+
+
 💻 Frontend Developer | Tech Explorer | AI Tools Enthusiast
+
+
 🌱 Currently learning deeper JavaScript and React.js concepts
+
+
 ⚡ Exploring Next.js, Firebase, and modern AI development tools
+
+
 🛠️ Building skills step-by-step to become a Full-Stack Developer
 
 🛠️ Tech Stack & Skills
+
+
 💻 Frontend Development
 HTML5, CSS3
 
@@ -54,6 +68,8 @@ Exploring cloud platforms and AI integrations
 
 
 ✨ Let's build and grow together! 🚀
+
+
 LinkedIn (https://www.linkedin.com/in/suhanitamrkar2004/)
 
 Email (suhanitamrkar2004@gmail.com)
