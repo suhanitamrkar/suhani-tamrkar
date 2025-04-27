@@ -1,5 +1,7 @@
 Hi there, I'm Suhani Tamrkar! 👋
 Welcome to my GitHub profile!
+
+
 I'm a passionate Front-end developer who loves building responsive websites and exploring modern web technologies.
 I aim to create clean, user-friendly, and efficient solutions using the latest tools and frameworks.
 
@@ -7,18 +9,13 @@ I aim to create clean, user-friendly, and efficient solutions using the latest t
 
 🚀 About Me
 
-
 🎓 Student & Self-Learner
-
 
 💻 Frontend Developer | Tech Explorer | AI Tools Enthusiast
 
-
 🌱 Currently learning deeper JavaScript and React.js concepts
 
-
 ⚡ Exploring Next.js, Firebase, and modern AI development tools
-
 
 🛠️ Building skills step-by-step to become a Full-Stack Developer
 
@@ -48,6 +45,7 @@ Bolt AI, Cursor AI
 Vercel (for deployment)
 
 📱 Projects & Practice
+
 ✨ Responsive Websites
 Built multiple web pages and components with mobile-first designs using HTML, CSS, Tailwind, and JavaScript.
 
