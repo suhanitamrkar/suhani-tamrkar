@@ -1,49 +1,66 @@
-Hi there, I'm Suhani Tamrkar 👋
+Hi there, I'm Mayank Tamrkar! 👋
 Welcome to my GitHub profile!
+I'm a passionate Front-end developer who loves building responsive websites and exploring modern web technologies.
+I aim to create clean, user-friendly, and efficient solutions using the latest tools and frameworks.
 
 🚀 About Me
-🌟 Passionate about web development and UI/UX design
-🌟 Love building responsive and user-friendly websites
-🌟 Exploring modern frameworks and AI tools to boost productivity
+🎓 Student & Self-Learner
+💻 Frontend Developer | Tech Explorer | AI Tools Enthusiast
+🌱 Currently learning deeper JavaScript and React.js concepts
+⚡ Exploring Next.js, Firebase, and modern AI development tools
+🛠️ Building skills step-by-step to become a Full-Stack Developer
 
+🛠️ Tech Stack & Skills
+💻 Frontend Development
+HTML5, CSS3
 
-🛠️ Skills and Tools
-Frontend Development:
+Tailwind CSS
 
-- HTML5
+Basic JavaScript (ES6+)
 
-- CSS3
+Basic React.js
 
-- Responsive Web Design
+Basic Next.js
 
-- Tailwind CSS
+Responsive Web Design
 
-- Basic JavaScript
-
-- Basic React.js
-
-- Basic Next.js
-
-- Version Control:
-
-  Git & GitHub
-
-- AI Tools Knowledge:
-
- Bolt
+⚙️ Tools & Platforms
+Git & GitHub
 
 Firebase
 
- Cursor
+Bolt AI, Cursor AI
 
-🌱 Currently Learning
-Deepening my skills in JavaScript and React.js
+Vercel (for deployment)
 
-Exploring backend technologies
+📱 Projects & Practice
+✨ Responsive Websites
+Built multiple web pages and components with mobile-first designs using HTML, CSS, Tailwind, and JavaScript.
 
-Improving AI tool usage for faster development
+✨ Mini React Apps
+Created simple projects like to-do apps, calculators, and joke generators to practice React.js basics.
 
-📫 How to Reach Me
+✨ Next.js Experiments
+Explored server-side rendering and static generation with basic Next.js projects.
+
+📚 Currently Learning
+Deepening JavaScript fundamentals
+
+Building full-stack apps with React.js and Firebase
+
+Exploring cloud platforms and AI integrations
+
+📫 Let's Connect!
+
+
+✨ Let's build and grow together! 🚀
 LinkedIn (https://www.linkedin.com/in/suhanitamrkar2004/)
 
 Email (suhanitamrkar2004@gmail.com)
+
+🔥 Fun Fact
+"Consistency beats talent when talent doesn't show up."
+
+
+
+
