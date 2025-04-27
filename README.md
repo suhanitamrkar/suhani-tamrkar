@@ -1,4 +1,4 @@
-Hi there, I'm [Suhani Tamrkar] 👋
+Hi there, I'm Suhani Tamrkar 👋
 Welcome to my GitHub profile!
 
 🚀 About Me
